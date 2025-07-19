@@ -1,5 +1,5 @@
 import { zodResolver } from "@hookform/resolvers/zod"
-import { ArrrowRight } from "@medusajs/icons"
+import { ArrowRight } from "@medusajs/icons"
 import { AdminOrder, AdminReturn } from "@medusajs/types"
 import { Alert, Button, Input, Switch, Text, toast } from "@medusajs/ui"
 import { useEffect, useMemo } from "react"
